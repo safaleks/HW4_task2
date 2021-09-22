@@ -1,4 +1,4 @@
-public class Task_2 {
+public class Main {
     public static void main(String[] args) {
         BmiService bmi = new BmiService();
         double m = 85;
